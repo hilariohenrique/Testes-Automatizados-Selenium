@@ -1,4 +1,4 @@
-package com.example.selenium.pages;
+package com.ada.testesautomatizados.projetotestesselenium.pages;
 
 import java.time.Duration;
 

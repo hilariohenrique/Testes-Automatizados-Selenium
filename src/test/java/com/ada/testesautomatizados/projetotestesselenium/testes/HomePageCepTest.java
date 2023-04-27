@@ -1,13 +1,13 @@
-package com.example.selenium.testes;
+package com.ada.testesautomatizados.projetotestesselenium.testes;
 
+import com.ada.testesautomatizados.projetotestesselenium.pages.HomePageCep;
+import com.ada.testesautomatizados.projetotestesselenium.setup.Pagina;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.example.selenium.pages.HomePageCep;
-
 public class HomePageCepTest {
 
-    private com.example.selenium.setup.Pagina pagina = new com.example.selenium.setup.Pagina();
+    private Pagina pagina = new Pagina();
     private HomePageCep tela;
 
     @Test

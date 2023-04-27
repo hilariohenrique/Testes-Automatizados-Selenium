@@ -1,4 +1,4 @@
-package com.example.selenium.setup;
+package com.ada.testesautomatizados.projetotestesselenium.setup;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
